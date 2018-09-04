@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org"
+      xmlns:layout="http://www.ultraq.net.nz/thymeleaf/layout"
+      layout:decorate="~{fragments/main_layout}">
+<head>
+    <title>Woops</title>
+</head>
+<body>
+
+<div layout:fragment="content" class="container mySpace">
+    <div>
+        <p>There was an error.</p>
+        <span th:text="${message}"></span>
+        <span th:text="${status}" class="text text-danger"></span>
+    </div>
+    <div>
+        <p> Refresh your session by going to home and then try again.</p>
+        <p> Please contact us if this error continues to happen. </p>
+    </div>
+</div>
+</body>
+</html>

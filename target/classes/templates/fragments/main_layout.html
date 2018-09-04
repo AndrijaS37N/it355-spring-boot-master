@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html xmlns:sec="http://www.thymeleaf.org/extras/spring-security"
+      xmlns:layout="http://www.ultraq.net.nz/thymeleaf/layout" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <!-- trying layouts with xmlns -->
+    <link rel="stylesheet" href="../../static/css/materia/bootstrap.min.css"
+          th:href="@{css/materia/bootstrap.min.css}"/>
+    <link rel="stylesheet" href="../../static/css/style.css" th:href="@{css/style.css}"/>
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+    <script th:src="@{webjars/jquery/jquery.min.js}"></script>
+    <script th:src="@{webjars/bootstrap/js/bootstrap.min.js}"></script>
+</head>
+<body>
+<div th:replace="fragments/header::header"></div>
+<div layout:fragment="content">
+</div>
+<div th:replace="fragments/footer::footer"></div>
+</body>
+</html>

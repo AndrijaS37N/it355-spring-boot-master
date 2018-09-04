@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org"
+      xmlns:layout="http://www.ultraq.net.nz/thymeleaf/layout"
+      layout:decorate="~{fragments/main_layout}">
+<head>
+    <title>Tasks</title>
+</head>
+<body>
+
+<div layout:fragment="content" class="container mySpace" style="margin-bottom: 180px;">
+    <!-- no search functionality here -->
+    <!--<form action="/tasks" class="form-inline">-->
+    <!--<div class="form-group mb-2">-->
+    <!--<input type="text" class="form-control" name="name" placeholder="Search Task" />-->
+    <!--<input type="submit" value="Search"  class="btn btn-primary"/>-->
+    <!--</div>-->
+    <!--</form>-->
+    <div class="card">
+        <div class="card card-body">
+            <table class="table table-hover">
+                <thead>
+                <tr>
+                    <th>Description</th>
+                    <th>User Email</th>
+                    <th>User Name</th>
+                    <th>Date</th>
+                    <th>Start Time</th>
+                    <th>Stop Time</th>
+                    <td>ID</td>
+                    <td>Action (no finished)</td>
+                </tr>
+                </thead>
+                <tbody>
+                <tr th:each="task:${tasks}">
+                    <td th:text="${task.description}"></td>
+                    <td th:text="${task.user.email}"></td>
+                    <td th:text="${task.user.name}"></td>
+                    <td th:text="${task.date}"></td>
+                    <td th:text="${task.startTime}"></td>
+                    <td th:text="${task.stopTime}"></td>
+                    <td th:text="${task.id}"></td>
+                    <td><a th:href="@{/deleteTask(description=${task.description})}" class="btn btn-dark">Delete Task</a></td>
+                </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+    <br><br><br>
+</div>
+</body>
+</html>

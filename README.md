@@ -13,7 +13,7 @@ you'll need to start the Main.java class with a configured Tomcat Server ready t
 chosen browser. I've also added a sql file that you can use in your database manager to create and 
 insert a couple of rows of info.</p>
 <h3>A short personal note:</h3>
-<p>I'm not really interested in the Java Spring Framework, but it helped me understand REST services,
+<p>I'm not really interested in the Java Spring Framework, but it helped me better understand REST services,
 HTTP requests, web components development, database and security configurations. Woo woo!</p>
 <p>This is the landing page with a few more example views. Check out more snapshots in the mentioned folder above.</p>
 <p>Home View</p>

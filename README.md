@@ -1,4 +1,4 @@
-# cs102-checkers-game-master
+# it355-spring-boot-master
 <h3>A second year university Spring Boot project:</h3>
 <ul style="list-style-type:circle">
   <li>Made for the IT355 Web Services II course</li>

@@ -15,7 +15,8 @@ insert a couple of rows of info.</p>
 <h3>A short personal note. 🏴</h3>
 <p>I'm not really interested in the Java Spring Framework, but it helped me better understand REST services,
 HTTP requests, web components development, database and security configurations. Woo woo!</p>
-<h3>Project snapshots:</h3>
+
+#### Project snapshots:
 <p>This is the landing page with a few more example views. Check out more snapshots in the mentioned folder above.</p>
 <p>Home View</p>
 <img src="screen-shots/landing-page.png" alt="Landing Page">

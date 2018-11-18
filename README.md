@@ -6,6 +6,7 @@
   <li>All app view snapshots are collected in the <b>screen-shots</b> dir.</li>
   <li>The web app is called Aereo, for an imaginary management company.</li>
   <li>Has a shallow, test only front-end.</li>
+  <li>Not really a big fan of this project, but I saved it here nonetheless.</li>
 </ul>
 <h3>Project boot. 🏴</h3>
 <p>The development IDE is IntelliJ IDEA. In order to deploy this app to localhost,

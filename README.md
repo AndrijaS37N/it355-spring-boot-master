@@ -27,6 +27,6 @@ HTTP requests, web components development, database and security configurations.
 <p>Example View 3</p>
 <img src="screen-shots/example-view-3.png" alt="Example View 3">
 <p>Example View 4</p>
-<img src="screen-shots/example-view-4.png" alt="Example View 4">
+<img src="screen-shots/example-view-4.png" height="42" width="42" alt="Example View 4">
 <p>Example View 5</p>
 <img src="screen-shots/example-view-5.png" alt="Example View 5">

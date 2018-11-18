@@ -1,5 +1,5 @@
 # it355-spring-boot-master 🚦
-<h3>A second year university Spring Boot project. 🚥</h3>
+<h3>A second year university Spring Boot project. </h3>
 <ul>
   <li>Made for the <b>IT355 Web Services II</b> course. 🍏</li>
   <li>Has a MySQL database.</li>
@@ -26,3 +26,7 @@ HTTP requests, web components development, database and security configurations.
 <img src="screen-shots/example-view-2.png" alt="Example View 2">
 <p>Example View 3</p>
 <img src="screen-shots/example-view-3.png" alt="Example View 3">
+<p>Example View 4</p>
+<img src="screen-shots/example-view-4.png" alt="Example View 4">
+<p>Example View 5</p>
+<img src="screen-shots/example-view-5.png" alt="Example View 5">

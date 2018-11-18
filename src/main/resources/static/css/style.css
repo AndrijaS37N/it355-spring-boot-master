@@ -95,6 +95,11 @@
 }
 
 .about {
-    font-size: 14px;
+    font-size: 15px;
     padding-left: 10px;
+}
+
+/* should be larger so */
+html {
+    font-size: 19px;
 }

@@ -19,7 +19,7 @@ HTTP requests, web components development, Spring database and security configur
 
 #### Project snapshots:
 <p>This is the landing page with a few more example views. Check out more snapshots in the mentioned folder above.</p>
-<p>Home View</p>
+<h6>Home View</h6>
 <img src="screen-shots/landing-page.png" alt="Landing Page">
 <p>Example View 1</p>
 <img src="screen-shots/example-view-1.png" alt="Example View 1">

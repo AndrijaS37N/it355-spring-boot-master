@@ -21,13 +21,13 @@ HTTP requests, web components development, Spring database and security configur
 <p>This is the landing page with a few more example views. Check out more snapshots in the mentioned folder above.</p>
 <h6>Home View</h6>
 <img src="screen-shots/landing-page.png" alt="Landing Page">
-<p>Example View 1</p>
+<h6>Example View 1</h6>
 <img src="screen-shots/example-view-1.png" alt="Example View 1">
-<p>Example View 2</p>
+<h6>Example View 2</h6>
 <img src="screen-shots/example-view-2.png" alt="Example View 2">
-<p>Example View 3</p>
+<h6>Example View 3</h6>
 <img src="screen-shots/example-view-3.png" alt="Example View 3">
-<p>Example View 4</p>
+<h6>Example View 4</h6>
 <img src="screen-shots/example-view-4.png" height="640" alt="Example View 4">
-<p>Example View 5</p>
+<h6>Example View 5</h6>
 <img src="screen-shots/example-view-5.png" alt="Example View 5">

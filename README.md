@@ -1,4 +1,4 @@
-# it355-spring-boot-master 🚦
+# it355-spring-boot-master
 <h3>A simple, second year university Spring Boot project.</h3>
 <ul>
   <li>Made for the <b>IT355 Web Services II</b> course. 🍏</li>
@@ -20,14 +20,14 @@ HTTP requests, web components development, Spring database and security configur
 #### Project snapshots:
 <p>This is the landing page with a few more example views. Check out more snapshots in the mentioned folder above.</p>
 <h6>Home View</h6>
-<img src="screen-shots/landing-page.png" alt="Landing Page">
+<img src="screen-shots/landing-page.png" height="500" alt="Landing Page">
 <h6>Example View 1</h6>
-<img src="screen-shots/example-view-1.png" alt="Example View 1">
+<img src="screen-shots/example-view-1.png" height="500" alt="Example View 1">
 <h6>Example View 2</h6>
-<img src="screen-shots/example-view-2.png" alt="Example View 2">
+<img src="screen-shots/example-view-2.png" height="500" alt="Example View 2">
 <h6>Example View 3</h6>
-<img src="screen-shots/example-view-3.png" alt="Example View 3">
+<img src="screen-shots/example-view-3.png" height="500" alt="Example View 3">
 <h6>Example View 4</h6>
 <img src="screen-shots/example-view-4.png" height="640" alt="Example View 4">
 <h6>Example View 5</h6>
-<img src="screen-shots/example-view-5.png" alt="Example View 5">
+<img src="screen-shots/example-view-5.png" height="500" alt="Example View 5">

@@ -5,7 +5,7 @@
   <li>Has a MySQL database.</li>
   <li>All app view snapshots are collected in the <b>screenshots</b> dir.</li>
   <li>The web app is called Aereo, for an imaginary management company.</li>
-  <li>Has a shallow, test only front-end.</li>
+  <li>Has a shallow, test only front end.</li>
   <li>Not really a big fan of this project, but I saved it here nonetheless.</li>
 </ul>
 <h3>🚩 Project boot.</h3>
